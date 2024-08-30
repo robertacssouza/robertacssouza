@@ -5,9 +5,9 @@ I'm currently based at the Luxembourg border!👋
 ## About me
 I’m Quality Assurance Tester with 2 years of experience in software testing. 
 I have a certificate in Information Systems and Technologies from the Algarve University in Portugal.
-I'm speaking in Portuguese and English. I'm studying French, my current level in French is A1. :)
+I'm speaking in Portuguese and English. I'm studying French, my current level in French is A2. :)
 
-- 🌱 Currently I'm learning Robotframework, Selenium + Python :) 
+- 🌱 Currently I'm learning Robot framework, Selenium + Python :) 
 - 👯 I'm looking for a strong and collaborative team that I could add value to, and to keep improving my skills (I'm **open to work**!). 
 - 📫 Reach me out: robertacssouza.pt@gmail.com
   
